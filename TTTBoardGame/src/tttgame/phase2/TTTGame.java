@@ -3,7 +3,7 @@ package tttgame.phase2;
 
 
 /*										-Design-
- * The TTTGame class has an association class with both the board and player classes. It will create two players 
+ * The TTTGame class has an association class with both the board and player class. It will create two players 
  * and a board. This class will keep control of the game.
  */
  
